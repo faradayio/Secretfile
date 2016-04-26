@@ -1,3 +1,5 @@
+![](http://s3.amazonaws.com/faraday-assets/wilsons-banner.svg)
+
 # Secretfile
 
 A simple, standard, open pattern for safely using secrets from secure stores like Vault in your applications.
