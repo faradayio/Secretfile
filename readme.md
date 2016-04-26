@@ -63,4 +63,5 @@ s3 = AWS::S3.new access_key_id: SecretGarden.fetch('AWS_ACCESS_KEY_ID')
 [vault]: https://www.vaultproject.io/
 [keywhiz]: https://square.github.io/keywhiz/
 [c2e]: https://github.com/faradayio/credentials_to_env
+[credentials]: https://github.com/emk/credentials
 [sg]: https://github.com/dkastner/secret_garden
